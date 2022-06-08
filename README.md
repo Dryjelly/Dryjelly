@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=%20Dry%20Jelly%20&fontSize=90&animation=fadeIn)
+
 ### Hi there 👋
 
 <!--
