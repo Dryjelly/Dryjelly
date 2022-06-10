@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=%20Dry%20Jelly%20&fontSize=90&animation=fadeIn)
 
-### Hi there 👋 I'm Dryjelly 🍮
+### Hi there 👋 I'm Dryjelly ☀️🍮
 
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)   
 [<img src="https://img.shields.io/badge/Slide Share-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white">](https://www.slideshare.net/ssuser892bc4?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
