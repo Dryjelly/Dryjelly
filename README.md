@@ -2,8 +2,7 @@
 
 ### Hi there 👋 I'm Dryjelly ☀️🍮
 
-[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)   
-[<img src="https://img.shields.io/badge/Slide Share-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white">](https://www.slideshare.net/ssuser892bc4?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview) (2021년부터 유료화 됨, Tistory 블로그로 가시면 무료로 보실 수 있습니다.)
+[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/) [<img src="https://img.shields.io/badge/Slide Share-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white">](https://www.slideshare.net/ssuser892bc4?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 
 <!--
 **Dryjelly/Dryjelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
