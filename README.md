@@ -2,7 +2,10 @@
 
 ### Hi there 👋 I'm Dryjelly ☀️🍮
 
-[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/) [<img src="https://img.shields.io/badge/Slide Share-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white">](https://www.slideshare.net/ssuser892bc4?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
+#### My Blog   
+[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)
+[<img src="https://img.shields.io/badge/Slide Share-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white">](https://www.slideshare.net/ssuser892bc4?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
+
 
 <!--
 **Dryjelly/Dryjelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
