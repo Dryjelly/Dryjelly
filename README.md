@@ -4,7 +4,6 @@
 ---
 ### My Blog   
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)
-[<img src="https://img.shields.io/badge/Slide Share-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white">](https://www.slideshare.net/ssuser892bc4?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 
 ---
 ### My Paper
@@ -29,5 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-
+[<img src="https://img.shields.io/badge/Slide Share-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white">](https://www.slideshare.net/ssuser892bc4?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 -->
