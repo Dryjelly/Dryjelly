@@ -7,7 +7,7 @@
 
 ---
 ### My Paper
-* [사람 재인식을 위한 개선된 PersonNet](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09301114)   
+* [사람 재인식을 위한 개선된 PersonNet](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301114)
 #### Continual Learning 관련  
 * [데이터 유사도를 이용한 지속적 학습방법](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09411759)   
 * [가변 람다값을 이용한 EWC에서의 치명적 망각현상 개선](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10525090)   
