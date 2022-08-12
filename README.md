@@ -2,6 +2,9 @@
 
 ### Hi there 👋 I'm Dryjelly ☀️🍮
 ---
+### My Email
+jellypark1130@gmail.com
+
 ### My Blog   
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)
 
