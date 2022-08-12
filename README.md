@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Dryjelly ☀️🍮
 ---
-### My Email
+### My Email 📫
 jellypark1130@gmail.com
 
 ### My Blog   
