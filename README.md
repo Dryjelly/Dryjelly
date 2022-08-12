@@ -2,14 +2,14 @@
 
 ### Hi there 👋 I'm Dryjelly ☀️🍮
 ---
-### My Email 📫
+### 📫 My Email
 jellypark1130@gmail.com
 
-### My Blog   
+### ✏️ My Blog   
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)
 
 ---
-### My Paper
+### 📚 My Paper
 * [사람 재인식을 위한 개선된 PersonNet](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002546031)
 #### Continual Learning 관련  
 * [데이터 유사도를 이용한 지속적 학습방법](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002604395)   
