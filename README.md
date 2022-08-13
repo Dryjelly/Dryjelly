@@ -8,6 +8,9 @@ jellypark1130@gmail.com
 ### ✏️ My Blog   
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)
 
+### 📑 My Portfolio
+[Notion](https://rhetorical-dungeon-ef0.notion.site/48b5a3c69e9d44128cd5d108de808094) 
+
 ---
 ### 📚 My Paper
 * [사람 재인식을 위한 개선된 PersonNet](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002546031)
