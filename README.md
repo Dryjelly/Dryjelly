@@ -9,7 +9,7 @@ jellypark1130@gmail.com
 [<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge">](https://dryjelly.tistory.com/)
 
 ### 📑 My Portfolio
-[Notion](https://rhetorical-dungeon-ef0.notion.site/48b5a3c69e9d44128cd5d108de808094) 
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://rhetorical-dungeon-ef0.notion.site/48b5a3c69e9d44128cd5d108de808094) 
 
 ---
 ### 📚 My Paper
